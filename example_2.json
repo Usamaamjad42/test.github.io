@@ -1,5 +1,80 @@
 {
-    "fruit": "Apple",
-    "size": "Large",
-    "color": "Red"
+    "TipsList": [
+        {
+                "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+        {
+             "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+        {
+             "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+         {
+                "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+        {
+             "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+        {
+             "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+         {
+                "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+        {
+             "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+        {
+             "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+         {
+                "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+        {
+             "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+        {
+             "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+         {
+                "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+        {
+             "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+        {
+             "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+         {
+                "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+        {
+             "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+        {
+             "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        },
+        {
+            "title": "Tips 1 : Introduction",
+                "images_previews": "https://www.w3schools.com/images/picture.jpg"
+        }
+    ]
 }
